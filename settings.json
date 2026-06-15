@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bbtcssuperserver.aternos.me:26877",
+    "ip": "bbtcssuperserver.aternos.me",
     "port": 26877,
     "version": "",
     "try-creative": false
