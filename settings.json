@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "yourconscience",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "bbtcssuperserver.aternos.me:26877",
+    "port": 26877,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "subscribe to BBTC",
+        "check out the store for stuff",
+        "check out the building area soo much cool stuff there",
+        "GO TO https://www.youtube.com/@brannon1072 AND SUBSCRIBE"
       ]
     },
     "chat-log": true,
