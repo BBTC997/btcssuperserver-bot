@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bbtcssuperserver.aternos.me",
+    "ip": "milkfish.aternos.host",
     "port": 26877,
     "version": "",
     "try-creative": false
